@@ -1,0 +1,17 @@
+data
+ergs
+examples-linux
+examples-win
+executables-linux
+executables-mac
+executables-win
+figures/*
+hit
+icomp-win-linux
+input
+roche-visualization-tool
+spectra
+work/*
+__pycache__
+lft14.inp
+*.exe
