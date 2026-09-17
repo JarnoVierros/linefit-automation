@@ -13,3 +13,6 @@ spectra
 __pycache__
 lft14.inp
 *.exe
+
+work/*
+figures/*
